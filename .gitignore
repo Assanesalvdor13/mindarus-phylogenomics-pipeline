@@ -1,0 +1,12 @@
+# data and results are never committed
+*.fastq*
+*.fq*
+*.bam*
+*.vcf*
+*.zip
+*.tar.gz
+ref/*
+!ref/README.md
+tmp/
+logs/
+__pycache__/
